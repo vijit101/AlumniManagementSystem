@@ -1,0 +1,16 @@
+Q1) Name 
+Q2) Passing year     
+Q3) College 
+Q4) Role 
+Q4) Tech stack 
+Q5) what can you help with 
+Q6) bio 
+Q7) Linkedin link 
+Q8) Github Link 
+Q9) Fond of sports / hobbies 
+Q10) pictures 
+Q11) connect spotify 
+Q12) Availability 
+Q13) Preferred contact mothod 
+Q14)One hot take or unpopular opinion ? 
+Q15 ) MBTI personality 

@@ -1,0 +1,15 @@
+User Journey : 
+1. A learner comes in registers on the Website form 
+2. Once registered an additional form is there that helps the leaner 
+Understand his / her programming personality a fun little form 
+3. They browse the data and can filter it out based on what they 
+need 
+
+
+Pre reqs - 
+1. What are the Learners willing to help with  ? 
+2. Form schema and questions needs be prepared 
+3. Accessto the website is granted one needs to register first as the 
+like how glassdoor does so that only peeps who are willing to help get access 
+to the community Alumni 
+
